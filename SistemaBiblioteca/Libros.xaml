@@ -1,0 +1,96 @@
+﻿<Window x:Class="SistemaBiblioteca.Libros"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gestión de Libros"
+        Height="500"
+        Width="900"
+        Background="#12121C"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="20">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- PANEL IZQUIERDO -->
+        <Border Background="#1E1E2E"
+                CornerRadius="20"
+                Padding="20"
+                Margin="0,0,20,0">
+
+            <StackPanel>
+
+                <TextBlock Text="GESTIÓN DE LIBROS"
+                           Foreground="White"
+                           FontSize="24"
+                           FontWeight="Bold"
+                           Margin="0,0,0,20"/>
+
+                <TextBlock Text="Título"
+                           Foreground="White"/>
+
+                <TextBox x:Name="txtTitulo"
+                         Height="30"
+                         Margin="0,5,0,15"/>
+
+                <TextBlock Text="Autor"
+                           Foreground="White"/>
+
+                <TextBox x:Name="txtAutor"
+                         Height="30"
+                         Margin="0,5,0,15"/>
+
+                <TextBlock Text="Categoría"
+                           Foreground="White"/>
+
+                <TextBox x:Name="txtCategoria"
+                         Height="30"
+                         Margin="0,5,0,15"/>
+
+                <TextBlock Text="Stock"
+                           Foreground="White"/>
+
+                <TextBox x:Name="txtStock"
+                         Height="30"
+                         Margin="0,5,0,20"/>
+
+                <Button Content="Agregar Libro"
+                        Height="40"
+                        Margin="0,5"
+                        Click="BtnAgregar_Click"/>
+
+                <Button Content="Editar Libro"
+                        Height="40"
+                        Margin="0,5"
+                        Click="BtnEditar_Click"/>
+
+                <Button Content="Eliminar Libro"
+                        Height="40"
+                        Margin="0,5"
+                        Click="BtnEliminar_Click"/>
+
+                <Button Content="Limpiar"
+                        Height="40"
+                        Margin="0,5"
+                        Click="BtnLimpiar_Click"/>
+
+            </StackPanel>
+        </Border>
+
+        <!-- DATAGRID -->
+        <Border Grid.Column="1"
+                Background="#1E1E2E"
+                CornerRadius="20"
+                Padding="15">
+
+            <DataGrid x:Name="dgLibros"
+                      Background="#2A2A40"
+                      Foreground="White"
+                      AutoGenerateColumns="True"
+                      SelectionChanged="dgLibros_SelectionChanged"/>
+        </Border>
+
+    </Grid>
+</Window>
