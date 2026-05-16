@@ -1,0 +1,14 @@
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\MainWindow.baml
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\MainWindow.g.cs
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\App.g.cs
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca_MarkupCompile.cache
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.g.resources
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Properties.Resources.resources
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.GenerateResource.cache
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
