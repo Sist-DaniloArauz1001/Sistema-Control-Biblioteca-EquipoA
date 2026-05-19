@@ -1,0 +1,18 @@
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\bin\x86\Debug\Data\Base de datos.accdb
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\bin\x86\Debug\SistemaBiblioteca.exe.config
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\bin\x86\Debug\SistemaBiblioteca.exe
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\bin\x86\Debug\SistemaBiblioteca.pdb
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\SistemaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\Libros.baml
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\MainWindow.baml
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\Libros.g.cs
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\MainWindow.g.cs
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\App.g.cs
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\SistemaBiblioteca_Content.g.cs
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\SistemaBiblioteca_MarkupCompile.cache
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\SistemaBiblioteca.g.resources
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\SistemaBiblioteca.Properties.Resources.resources
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\SistemaBiblioteca.csproj.GenerateResource.cache
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\SistemaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\SistemaBiblioteca.exe
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\x86\Debug\SistemaBiblioteca.pdb

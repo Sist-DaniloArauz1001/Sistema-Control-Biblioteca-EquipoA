@@ -1,3 +1,9 @@
 <Solution>
-  <Project Path="SistemaBiblioteca.csproj" Id="00c5b782-8125-4165-9967-88316bf90f7a" />
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SistemaBiblioteca.csproj" Id="00c5b782-8125-4165-9967-88316bf90f7a">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
 </Solution>

@@ -28,3 +28,5 @@ C:\Users\usuario\Desktop\Sistema-Control-Biblioteca-EquipoA\SistemaBiblioteca\ob
 C:\Users\usuario\Desktop\Sistema-Control-Biblioteca-EquipoA\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
 C:\Users\usuario\Desktop\Sistema-Control-Biblioteca-EquipoA\SistemaBiblioteca\obj\Debug\Libros.baml
 C:\Users\usuario\Desktop\Sistema-Control-Biblioteca-EquipoA\SistemaBiblioteca\obj\Debug\Libros.g.cs
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\Libros.baml
+C:\Users\arauz\Desktop\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\Libros.g.cs
